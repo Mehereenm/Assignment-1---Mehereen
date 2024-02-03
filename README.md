@@ -1,16 +1,16 @@
-# Topics in Software Engineering
+# Project proposal - Mehereen Meem 
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+We can create a blog platform with features such as:
 
-# Tools
-The tools that are installed with this devcontainer are:
+ * Login page
+ * Posting function/page for bloggers
+ * User profiles 
+ * Comments/Replies 
+ * Likes
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
+This platform can be used as a way to reach out and connect with audiences, and it's one of the ways to be "visible" or found online. It also serves as a means of  a marketing strategy for many individuals and businesses.
 
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+# Who is the primary user?
+
+Primary users for this are small buisness owners, as a means of a marketing strategy and a way to reach out to a larger or diverse audience base.  And also for affiliate advitisers, who use the platform to promote and recommend products with their affiliate links.
+
